@@ -36,13 +36,12 @@ body {
 
 header {
   width: 100%;
-  background-color: var(--apricot);
+  background-color: var(--applecore);
 }
 
 section{
   width: 100%;
   height: 100vh;
-  background-color: var(--blueberry);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -281,7 +280,7 @@ nav {
   position: absolute;
   width: .6rem;
   height: 90%;
-  background-color:var(--applecore);
+  background-color:var;
   top: 50%;
   left: 0;
   transform: translateY(-50%);
@@ -318,7 +317,7 @@ nav {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: var(--apricot);
+    background-color: var(--applecore);
     position: fixed;
     left: 0;
     bottom: -100vh;
