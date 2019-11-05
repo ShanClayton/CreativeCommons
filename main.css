@@ -255,7 +255,7 @@ nav {
 }
 
 .accordion-link i{
-  color: #e7d5ff;
+  color: var(--apricot);
   padding: .5rem;
 }
 
